@@ -1,0 +1,23 @@
+{
+  "name": "@yesiree/cio",
+  "version": "0.1.0",
+  "description": "A library for console input and output",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yesiree/cio.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yesiree/cio/issues"
+  },
+  "homepage": "https://github.com/yesiree/cio#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "moment-timezone": "^0.5.21",
+    "strip-ansi": "^4.0.0"
+  }
+}
